@@ -1,6 +1,8 @@
 # Blockchain-and-Cryptography-Combination: Combo-Nature-System
 
 “New Approach as Blockchain and Cryptography Combination” : Combo Nature System
+<img width="691" alt="Screenshot 2022-12-29 at 4 46 57 PM" src="https://user-images.githubusercontent.com/28294942/209943726-d0b008e1-1ba8-4c2e-80aa-6f3873cf5df3.png">
+
 
 SYNOPSIS: [Blockchain+Crypto Synopsis .pdf](https://github.com/Vatshayan/Blockchain-and-Cryptography-Combination-Combo-Nature-System/files/7179447/Blockchain%2BCrypto.Synopsis.pdf)
 
